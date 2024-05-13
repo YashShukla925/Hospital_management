@@ -1,0 +1,8 @@
+.mydivstyle:hover{
+    box-shadow: 0 0 40px 0 rgba(224, 3, 3, 0.581);
+    transform: translateY(-20px);
+}
+.mydivstyle1:hover{
+    box-shadow: 0 0 40px 0 rgba(224, 3, 3, 0.581);
+    transform: translateY(10px);
+}
